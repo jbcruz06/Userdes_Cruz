@@ -38,6 +38,7 @@
           <li><a href="#services">ACTIVITIES</a></li>
           <li><a href="#portfolio">REFLECTION</a></li>
           <li><a href="#team">PROJECTS</a></li>
+		  <li><a href="#LEARNINGS">LEARNINGS</a></li>
         </ul>
       </div>
     </div>
@@ -219,7 +220,7 @@ Elevate has been selected by apple as the best app of the year in United States.
                   </div>
                   <div class="col-sm-12 col-md-5">
                     <div class="screenshot wow bounceInRight">
-                      <img src="elev.png" class="img-responsive" alt="" />
+                      <img src="elev.png" style="width:265px" class="img-responsive" alt="" />
                     </div>
                   </div>
                 </div>
@@ -235,13 +236,98 @@ Elevate has been selected by apple as the best app of the year in United States.
 					  <p>Supporting study: Researchers found that students sending and receiving messages while studying scored lower test results and were less effective at tasks such as note taking. It found that when students did not use mobiles, they were better at being able to recall information. (BBC)</p>
 					  <p>We could easily place our phones to somewhere out of reach while studying to avoid this kind of distraction. But in this time of digitalization, learning materials are now becoming electronic and most of it can be easily accessed through our mobile phones. This now beats the purpose of placing your phone somewhere else because you now need it for studying. In addition, emergencies are mostly addressed through our phones which is why need it around almost all the time.</p>
 					  <p>Supporting study: Cell phones give students access to tools and apps that can help them complete and stay on top of their class work. These tools can also teach students to develop better study habits, like time management and organization skills. (Oxford Learning)
-App Solution:	Our group came up with an app idea solution for this problem which is, Study Lock. We find it very helpful to have this kind of app because all of us review our lecture notes in our mobile phones because it’s easier and paperless. Our app’s main feature is the complete lock, which will lock the phone from all of its features excluding emergency call features and partial lock, for selected apps only, for span of time set by the user. Both will be very effective as most people tend to still check their phones even without notification or any alerts receive. This will allow users to have undivided focus during study sessions. 
- “Our phones are not just static, there are smart people behind it trying to get our attention. Everyone is fighting for our attention to turn it into profit.” (Nikola, D. 2017)</p>
+App Solution:	Our group came up with an app idea solution for this problem which is, Study Lock. We find it very helpful to have this kind of app because all of us review our lecture notes in our mobile phones because it’s easier and paperless. 
+ </p>
+					</div>
+                  </div>
+                  <div class="col-sm-12 col-md-5">
+				  <p>Our app’s main feature is the complete lock, which will lock the phone from all of its features excluding emergency call features and partial lock, for selected apps only, for span of time set by the user. Both will be very effective as most people tend to still check their phones even without notification or any alerts receive. This will allow users to have undivided focus during study sessions. “Our phones are not just static, there are smart people behind it trying to get our attention. Everyone is fighting for our attention to turn it into profit.” (Nikola, D. 2017)</p>
+                    <div class="screenshot wow bounceInRight">
+                      <img src="" class="img-responsive" alt="" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+			  <div class="item">
+                <div class="row">
+                  <div class="col-sm-12 col-md-offset-1 col-md-6">
+                    <div class="wow bounceInLeft">
+                      <h4>A5: Initial Prototype - Log-In Page</h4>
+					  <img src="A5.png" style="width:600px  class="img-responsive" alt="" />
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
                     <div class="screenshot wow bounceInRight">
-                      <img src="" class="img-responsive" alt="" />
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+			  <div class="item">
+                <div class="row">
+                  <div class="col-sm-12 col-md-offset-1 col-md-6">
+                    <div class="wow bounceInLeft">
+                      <h4>A6: Persona </h4>
+                                       <img src="A6.png" style="width:200px class="img-responsive" alt="" />
+					</div>
+                  </div>
+                  <div class="col-sm-12 col-md-5">
+                    <div class="screenshot wow bounceInRight">
+                    </div>
+                  </div>
+                </div>
+              </div>
+			  <div class="item">
+                <div class="row">
+                  <div class="col-sm-12 col-md-offset-1 col-md-6">
+                    <div class="wow bounceInLeft">
+                      <h4>A7: Information Design</h4>
+                      <p><B>How can we improve this?</B></p>
+					  <p>- Create a background </p>
+					  <p>- Use calligraphy for unique fonts.</p>
+					  <p>- Capitalize the important details.</p>
+					  <p>- Use white space</p>
+					  <p><B>What would be the objective function?</B></p>
+					  <p>- be presentable</p>
+					  <p>- Organize</p>
+					  <p>- Readable</p>
+					</div>
+                  </div>
+                  <div class="col-sm-12 col-md-5">
+                    <div class="screenshot wow bounceInRight">
+                      <img src="A7.png" style="width:600px class="img-responsive" alt="" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+			  <div class="item">
+                <div class="row">
+                  <div class="col-sm-12 col-md-6">
+                    <div class="wow bounceInLeft">
+                      <h4>A8: Grid Layout Design</h4>
+					  	<img src="A8b.png" style="width:450px" class="img-responsive" alt="" />
+						<img src="A8c.png" style="width:450px" class="img-responsive" alt="" />
+				    </div>
+                  </div>
+                  <div class="col-sm-12 col-md-6">
+                    <div class="screenshot wow bounceInRight">
+					<h4>A8: Grid Layout Design: with pictures</h4>
+                      <img src="A8.png" style="width:450px" class="img-responsive" alt="" />
+					      <img src="A8a.png" style="width:450px" class="img-responsive" alt="" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+			  <div class="item">
+                <div class="row">
+                  <div class="col-sm-12 col-md-offset-1 col-md-6">
+                    <div class="wow bounceInLeft">
+                      <h4>A9: 12 Grid Layout Design </h4>
+                                       <img src="A9.png" style="width:200px class="img-responsive" alt="" />
+					</div>
+                  </div>
+                  <div class="col-sm-12 col-md-5">
+                    <div class="screenshot wow bounceInRight">
                     </div>
                   </div>
                 </div>
@@ -257,6 +343,10 @@ App Solution:	Our group came up with an app idea solution for this problem which
               <li data-target="#carousel-service" data-slide-to="2"></li>
 			  <li data-target="#carousel-service" data-slide-to="3"></li>
 			  <li data-target="#carousel-service" data-slide-to="4"></li>
+			  <li data-target="#carousel-service" data-slide-to="5"></li>
+			  <li data-target="#carousel-service" data-slide-to="6"></li>
+			  <li data-target="#carousel-service" data-slide-to="7"></li>
+			  <li data-target="#carousel-service" data-slide-to="8"></li>
             </ol>
           </div>
         </div>
@@ -272,7 +362,7 @@ App Solution:	Our group came up with an app idea solution for this problem which
           <div class="section-heading">
             <h2>REFLECTIONS</h2>
             <div class="heading-line"></div>
-            <p>Please Click Reflection to See More.</p>
+            <p>Please Click the color to See More.</p>
           </div>
         </div>
       </div>
@@ -282,28 +372,59 @@ App Solution:	Our group came up with an app idea solution for this problem which
           <ul id="og-grid" class="og-grid">
             <li>
               <a data-largesrc="ah.png" data-title="First Week Of USERDES Class" data-description="The first week with Ms. Arroyo, Jen and my classmate is fun. We have a lot of confidence to go in front and have a presentation or answer of what is asking. Enjoyable and difficult because I see what we are doing next like creating a design with code so I find it difficult but I try my best to create a best idea. I learn something in this week the design process to help and guide us have a good and better design. This design process will guide us in the next month or in our project by following the steps. But earlier Ms. Arroyo said that we will not having a quiz because we are more on lesson that will help us to have more skills and improve the way we think. ">
-                <img src="ah.png" alt="" />
+                <img src="R1.png" alt="" />
               </a>
             </li>
             <li>
               <a data-largesrc="ahh.png" data-title="Need Finding and Paper Prototyping" data-description="Having a need finding your work will be easy, its detailed, don’t have any missing part of your part because you think what it need to have the best design. Without having need finding your work could be spend months  for designing because you will misses the point of your work.  In the past years the touch of smartphone technology was hard and so slow sometimes it will not respond when you touched it. Having need finding the design or the future smartphone will be improve more and more to be the fast and comfortable to use. One of the example of need finding that shown in the class is shopping cart that will have a smart gadget I think the purpose of this work is to locate all your need and check your total item that you have. This will help customer to have a better shopping cart. They have this because they interviewed many users of what are the problem, issues and needs to improve the shopping or groceries. Having a error or fail in the start is okay that will be your guide and that id highlight of your work.">
-                <img src="ahh.png" alt="" />
+                <img src="r2.png" alt="" />
               </a>
             </li>
             <li>
               <a data-largesrc="ahhh.png" data-title="First Web Application using Github and Heroku" data-description="Creating a web application is fun and very enjoyable. It like I go back in my grade 9 activity because we do that way back in high school. But some of the basic html I forgot so I research and I ask my classmate to help so that I will have a simple html. 
 	using Github and Heroku is kind of hard but fun In creating a web application, it was about us like introducing our self. With a background and color that will have a good web application. In using Github by submitting was not easy because its tricky and some of the System Unit in the comp lab have an account that cant remove. But submitting in Heroku was easy.
 	I enjoy doing this HTML it was fun, I will never be bored doing this.">
-                <img src="ahhh.png" alt="img01" />
+                <img src="r3.png" alt="img01" />
               </a>
             </li>
             <li>
               <a data-largesrc="ahhhh.png" data-title="User Interface - Worst UI Practice" data-description="It was fun, confuse and annoying in the same time. This was a tricky game that I enjoyed, it will high your thinking and logic that’s why I enjoy but it was annoying because It boost my brain to think on what I’m gonna do next or what will I do to this next. In example in the first step we need to click yes but it doesn’t their it just NO button is their. So we search for it and click every so that we go to the next step. In first  I take it 10 minutes to finish but we given a chance to repeat again so the 2nd attempt I did it just a 2 minutes. 
                   I recommend this to be more fun in class and boost their logic and thinking because it will help them/us to improve their thinking and logic.">
-                <img src="ahhhh.png" alt="img01" />
+                <img src="r4.png" alt="img01" />
               </a>
             </li>
             <li>
+              <a data-largesrc="rr5.png" data-title="SoCIT Fest" data-description="My experience in SOCIT Fest is great, its enjoyable it has a lot of activities and seminar that will
+help us to learn more about our course and we having fun on the activities in each organization we
+participate on the mobile legends tournament by gaming genesis and I think that role I’ve take part was
+lead to the success of the event I Also participate in every seminar in the Auditorium. The one that I
+very like in the seminar last week was the Microsoft Hololens, it was amazing and so educational using
+Hololens.
+The event that I like the most is the event of JPCS as they were creating a UI design and who
+have a good design that will be a winner. Second of the most I like is the Tournament of Mobile Legends
+by gaming genesis I enjoy playing with my friends and other teams. Additional all of the events are very
+good and awesome. Some events is creating a robot that will be more entertain. The Mr. and Ms. SOCIT
+nights rocks and awesome its very fun that I experience this event. The Fame or Shame it so funny and
+some participate was so awesome like the winner that make a poem.">
+                <img src="r5.png" alt="img01" />
+              </a>
+            </li>
+			  <li>
+              <a data-largesrc="r6.png" data-title="First Half of USERDES" data-description="USERDES class is fun subject it very good for us, it giving us knowledge and skills to our working
+application and also having a unique designs. Also Ms. Arroyo was a friendly Professional teacher that I
+like also in the USERDES class. She is approachable when we need help and check to our works.
+The challenges that I encountered is our project because first of all I thought that our project
+will be change because it’s not be help the users but we do our best to approve. Also the web app its
+challenging because some of the html code or functions that learned in I learned in high school was I
+can’t remember. What I did is I use a template and learn what they use and find things and search
+because I’m not familiar. Doing the web app it was enjoyable and entertaining because that was my first
+time do the web app of mine. Doing this challenges is hard but I enjoy it and I find new things that I
+didn’t know my knowledge is increasing and its very entertaining doing a web app.
+My expectation on this finals is that maybe it will be more challenging and hard because its
+finals there is no easy when its finals.">
+                <img src="rr6.png" alt="img01" />
+              </a>
+            </li>
         </div>
       </div>
     </div>
@@ -317,18 +438,113 @@ App Solution:	Our group came up with an app idea solution for this problem which
           <div class="section-heading">
             <h2>PROJECTS</h2>
             <div class="heading-line"></div>
-            <p>Please Click The Picture to Visit Lab1 Project</p>
+            <p>A good project today is better than a perfect project tomorrow.</p>
           </div>
         </div>
       </div>
       
-    <p style>
-        <a href = "lab1.html"> <img src = "pupu.png" style="width:250px; height:250px;"></a>
-       
-    </p>
+    <table style="width: 100%;">
+		<tr>
+			<th style="text-align: center;">
+				Click The Picture to Visit Lab1
+			</th>
+			<th style="text-align: center;">
+				1st Attempt
+			</th>
+			<th style="text-align: center;">
+				2nd Attempt
+			</th>
+		</tr>
+		<tr>
+			<td>
+					<a href = "lab1.html"> <img src = "pupu.png" style="width:300px; height:300px;"></a>
+				</span>
+			</td>
+		    <td>   
+				<span style="text-align: center;">
+					<img src = "Q1.png" style="width:300px; height:300px;">
+				</span>
+			</td>
+			<td>
+				<span style="text-align: center;">
+					<img src = "Q2.png" style="width:300px; height:300px;">
+				</span>
+			</td>
+		</tr>
+	</table>
     </div>
   </section>
+  <section id="LEARNINGS" class="home-section bg-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-offset-2 col-md-8">
+          <div class="section-heading">
+            <h2><u>LEARNINGS</u></h2>
+            <div class="heading-line"></div>
+            <p>I’M STILL LEARNING.</p>
+          </div>
+        </div>
+      </div>
+      
+    <table style="width: 100%;">
+		<tr>
+			<th style="text-align: center;">
 
+			</th>
+			<th style="text-align: center;">
+				Related to UX Design
+			</th>
+			<th style="text-align: center;">
+	
+			</th>
+		</tr>
+		<tr>
+			<td>
+				<img src = "C1.png" style="width:350px; height:350px;"></a>
+				</span>
+			</td>
+		    <td>   
+				<span style="text-align: center;">
+					<img src = "C2.png" style="width:350px; height:350px;">
+				</span>
+			</td>
+			<td>
+				<span style="text-align: center;">
+					<img src = "C3.png" style="width:350px; height:350px;">
+				</span>
+			</td>
+		</tr>
+		<tr>
+			<th style="text-align: center;">
+
+			</th>
+			<th style="text-align: center;">
+				UnRelated to UX Design
+			</th>
+			<th style="text-align: center;">
+	
+			</th>
+		</tr>
+		<tr>
+			<td>
+				<span style="display: block; margin: 20px 0 0 0;">
+					<img src = "C4.png" style="width:350px; height:350px;"></a>
+				</span>
+			</td>
+		    <td>   
+				<span style="text-align: center; display: block; margin: 20px 0 0 0;">
+					<img src = "C5.png" style="width:350px; height:350px;">
+				</span>
+			</td>
+			<td>
+				<span style="text-align: center; display: block; margin: 20px 0 0 0;">
+					<img src = "C6.png" style="width:350px; height:350px;">
+				</span>
+			</td>
+		</tr>
+	</table>
+    </div>
+  </section>
   <!-- Bottom widget -->
   <section id="bottom-widget" class="home-section bg-white">
     <div class="container">
