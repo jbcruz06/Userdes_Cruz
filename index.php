@@ -253,10 +253,13 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   <div class="col-sm-12 col-md-offset-1 col-md-6">
                     <div class="wow bounceInLeft">
                       <h4>A5: Initial Prototype - Log-In Page</h4>
-					  <img src="A5.png" style="width:600px  class="img-responsive" alt="" />
+					  <img src="A5a.png" style="width:600px  class="img-responsive" alt="" />
+					  <img src="A5aa.png" style="width:600px  class="img-responsive" alt="" />
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
+				  <p> This our Log In page. it's easy to Log In if you have an account but if none, you can use you Google Account to Log In. You can also creat an account by clicking the "register now" on the lower left.
+					if you forgot your Password you can click the "Forgot Password" to send you an email to change your password.</p>
                     <div class="screenshot wow bounceInRight">
                       
                     </div>
@@ -268,11 +271,21 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   <div class="col-sm-12 col-md-offset-1 col-md-6">
                     <div class="wow bounceInLeft">
                       <h4>A6: Persona </h4>
-                                       <img src="A6.png" style="width:200px class="img-responsive" alt="" />
+					  <p>what is Persona:</p>
+					  <p>A persona, in the word's everyday usage, is a social role or a character played by an actor. The word is derived from Latin, where it originally referred to a theatrical mask.</p>
+                        <img src = "Slide1.png" style="width:450px; height:450px;">
+						<p>Gerald Otlum</p>
+						<p>Gerald Otlum is an IT in the company that Study and Analyze everthing. he's 24 Years old and he preferred method of communication is Social media, Email, and Video callss</p>
+						<img src = "Slide2.png" style="width:450px; height:450px;">
+						<p>Julia Tebak</p>
+						<p>Julia Tebak is a Soft Engineer in the company that applies a design, development, maintenance, testing, and evaluation of computer software. She's 30 years old and she preferred method of communication is call, text message, and Email</p>
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
                     <div class="screenshot wow bounceInRight">
+					<img src = "Slide3.png" style="width:450px; height:450px;">
+					<p>Bea Nabal</p>
+					<p>Bea Nabal is a Security Service in the company. that is a service, provided by a layer of communicating open systems, which ensures adequate security of the systems. She's a 25 years old and she preferred method of communication is Face to face and Email</p>
                     </div>
                   </div>
                 </div>
@@ -295,7 +308,8 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   </div>
                   <div class="col-sm-12 col-md-5">
                     <div class="screenshot wow bounceInRight">
-                      <img src="A7.png" style="width:600px class="img-responsive" alt="" />
+                      <img src="A7a.png" style="width:600px class="img-responsive" alt="" />
+					<img src="A7.png" style="width:600px class="img-responsive" alt="" />
                     </div>
                   </div>
                 </div>
@@ -305,6 +319,7 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   <div class="col-sm-12 col-md-6">
                     <div class="wow bounceInLeft">
                       <h4>A8: Grid Layout Design</h4>
+					  <p>Column grids are used to organize elements into columns. this my two designs of grid, images and text can be placed inside one column </p>
 					  	<img src="A8b.png" style="width:450px" class="img-responsive" alt="" />
 						<img src="A8c.png" style="width:450px" class="img-responsive" alt="" />
 				    </div>
@@ -312,6 +327,7 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   <div class="col-sm-12 col-md-6">
                     <div class="screenshot wow bounceInRight">
 					<h4>A8: Grid Layout Design: with pictures</h4>
+					<p>this my Grid with images and text using this grind it will be organize</p>
                       <img src="A8.png" style="width:450px" class="img-responsive" alt="" />
 					      <img src="A8a.png" style="width:450px" class="img-responsive" alt="" />
                     </div>
@@ -323,7 +339,8 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   <div class="col-sm-12 col-md-offset-1 col-md-6">
                     <div class="wow bounceInLeft">
                       <h4>A9: 12 Grid Layout Design </h4>
-                                       <img src="A9.png" style="width:200px class="img-responsive" alt="" />
+					  <p>doing the 12 grid layout is a slighty hard because I've made a lot of box with a same size. the easiest grid is the 3 x 3 </p>
+                      <img src="A9.png" style="width:200px class="img-responsive" alt="" />
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
@@ -394,7 +411,8 @@ App Solution:	Our group came up with an app idea solution for this problem which
               </a>
             </li>
             <li>
-              <a data-largesrc="rr5.png" data-title="SoCIT Fest" data-description="My experience in SOCIT Fest is great, its enjoyable it has a lot of activities and seminar that will
+			
+              <a data-largesrc="pic.jpg" data-title="SoCIT Fest" data-description="My experience in SOCIT Fest is great, its enjoyable it has a lot of activities and seminar that will
 help us to learn more about our course and we having fun on the activities in each organization we
 participate on the mobile legends tournament by gaming genesis and I think that role I’ve take part was
 lead to the success of the event I Also participate in every seminar in the Auditorium. The one that I
@@ -403,9 +421,9 @@ Hololens.
 The event that I like the most is the event of JPCS as they were creating a UI design and who
 have a good design that will be a winner. Second of the most I like is the Tournament of Mobile Legends
 by gaming genesis I enjoy playing with my friends and other teams. Additional all of the events are very
-good and awesome. Some events is creating a robot that will be more entertain. The Mr. and Ms. SOCIT
-nights rocks and awesome its very fun that I experience this event. The Fame or Shame it so funny and
-some participate was so awesome like the winner that make a poem.">
+good and awesome. Some events is creating a robot that will be more entertain. ---(Credit to APC-microsoft for the picture)">
+
+
                 <img src="r5.png" alt="img01" />
               </a>
             </li>
@@ -487,58 +505,65 @@ finals there is no easy when its finals.">
       </div>
       
     <table style="width: 100%;">
-		<tr>
+		<tr> 
+			<B>CERTIFICATE OF COMPLETION</B>
 			<th style="text-align: center;">
-
+				Persuasive UX: Ethics of persuasive design
 			</th>
 			<th style="text-align: center;">
-				Related to UX Design
+				UX Design for Developers
 			</th>
-			<th style="text-align: center;">
-	
-			</th>
+			
 		</tr>
 		<tr>
 			<td>
-				<img src = "C1.png" style="width:350px; height:350px;"></a>
+				<img src = "C1.png" style="width:600px; height:600px;"></a>
 				</span>
 			</td>
 		    <td>   
 				<span style="text-align: center;">
-					<img src = "C2.png" style="width:350px; height:350px;">
+					<img src = "C2.png" style="width:600px; height:600px;">
 				</span>
 			</td>
-			<td>
-				<span style="text-align: center;">
-					<img src = "C3.png" style="width:350px; height:350px;">
-				</span>
-			</td>
-		</tr>
-		<tr>
-			<th style="text-align: center;">
 
-			</th>
-			<th style="text-align: center;">
-				UnRelated to UX Design
-			</th>
-			<th style="text-align: center;">
-	
-			</th>
+			</td>
 		</tr>
 		<tr>
+			<th style="text-align: center;">
+				Affinity Designer for UX Design
+			</th>
+			<th style="text-align: center;">
+				Scaling up exellence: Getting to more without settling for less
+			</th>
+
+		</tr>
+		<tr>
+		<td>
+				<span style="text-align: center;">
+					<img src = "C3.png" style="width:600px; height:600px;">
+				</span>
+			</td>
 			<td>
 				<span style="display: block; margin: 20px 0 0 0;">
-					<img src = "C4.png" style="width:350px; height:350px;"></a>
+					<img src = "C4.png" style="width:600px; height:600px;"></a>
 				</span>
 			</td>
+					<tr>
+			<th style="text-align: center;">
+				Learning GDPR
+			</th>
+			<th style="text-align: center;">
+				Designing for neural networks and AI Intefaces
+			</th>
+		</tr>
 		    <td>   
 				<span style="text-align: center; display: block; margin: 20px 0 0 0;">
-					<img src = "C5.png" style="width:350px; height:350px;">
+					<img src = "C5.png" style="width:600px; height:600px;">
 				</span>
 			</td>
 			<td>
 				<span style="text-align: center; display: block; margin: 20px 0 0 0;">
-					<img src = "C6.png" style="width:350px; height:350px;">
+					<img src = "C6.png" style="width:600px; height:600px;">
 				</span>
 			</td>
 		</tr>
