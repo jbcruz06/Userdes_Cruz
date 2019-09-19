@@ -497,7 +497,7 @@ finals there is no easy when its finals.">
       <div class="row">
         <div class="col-md-offset-2 col-md-8">
           <div class="section-heading">
-            <h2><u>LEARNINGS</u></h2>
+            <h2>LEARNINGS</h2>
             <div class="heading-line"></div>
             <p>I’M STILL LEARNING.</p>
           </div>
@@ -506,7 +506,7 @@ finals there is no easy when its finals.">
       
     <table style="width: 100%;">
 		<tr> 
-			<B>CERTIFICATE OF COMPLETION</B>
+			<B><u>CERTIFICATE OF COMPLETION</u></B>
 			<th style="text-align: center;">
 				Persuasive UX: Ethics of persuasive design
 			</th>
