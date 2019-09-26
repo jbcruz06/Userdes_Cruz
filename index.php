@@ -188,7 +188,7 @@ Customize your daily training focus and choose between 3 and 5 games.</p>
 <p>•	35+ games
 Perfect your reading, writing, speaking, and math with 35+ games.</p>
 <p>•	Unlimited access
-Train your brain whenever and wherever.</p>
+Train your brain whenever and wherever .</p>
 <p>•	Performance tracking
 Measure your performance against yourself and others.
 </p>
