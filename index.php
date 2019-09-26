@@ -216,6 +216,7 @@ Elevate has been selected by apple as the best app of the year in United States.
                       <h4>A3: How would you design an interface for a 1000 floor elevator?</h4>
                       <p>If I would design an interface for a 1000 floor elevator, I will make 100 Elevator with the maximum capacity of 150 because the floor is 1000 so I need to have many elevator so that no one will wait longer. The user will tap which floor they will go and if they tap it wrong they just need to tap 4 0’s to repeat their wanted floor. I want also put a CCTV camera for safety because I want all the users to be safe and monitored. It also have a emergency call for their safety. You will see what floor you are now in the screen with arrow down or up so that you will not go to the wrong floor. </p>
 					  <p>In this design, I think I will help the user to have a comfortable elevator and no one will wait longer because I will make 100 elevator that have a 150 maximum capacity. </p>
+					  <p>the interface of this elevator its have a good color which blue and gray. you will see the floor in the left and the arrow is to know what floor are you now. you will top what floor will you go and click enter if you get wrong just click many zeros to reset. it also have a emergency call just incase somethings wrong. </p>	
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
@@ -273,17 +274,17 @@ App Solution:	Our group came up with an app idea solution for this problem which
                       <h4>A6: Persona </h4>
 					  <p>what is Persona:</p>
 					  <p>A persona, in the word's everyday usage, is a social role or a character played by an actor. The word is derived from Latin, where it originally referred to a theatrical mask.</p>
-                        <img src = "Slide1.png" style="width:450px; height:450px;">
+                        <img src = "pou1.png" style="width:450px; height:450px;">
 						<p>Gerald Otlum</p>
 						<p>Gerald Otlum is an IT in the company that Study and Analyze everthing. he's 24 Years old and he preferred method of communication is Social media, Email, and Video callss</p>
-						<img src = "Slide2.png" style="width:450px; height:450px;">
+						<img src = "pou2.png" style="width:450px; height:450px;">
 						<p>Julia Tebak</p>
 						<p>Julia Tebak is a Soft Engineer in the company that applies a design, development, maintenance, testing, and evaluation of computer software. She's 30 years old and she preferred method of communication is call, text message, and Email</p>
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
                     <div class="screenshot wow bounceInRight">
-					<img src = "Slide3.png" style="width:450px; height:450px;">
+					<img src = "pou3.png" style="width:450px; height:450px;">
 					<p>Bea Nabal</p>
 					<p>Bea Nabal is a Security Service in the company. that is a service, provided by a layer of communicating open systems, which ensures adequate security of the systems. She's a 25 years old and she preferred method of communication is Face to face and Email</p>
                     </div>
@@ -304,6 +305,7 @@ App Solution:	Our group came up with an app idea solution for this problem which
 					  <p>- be presentable</p>
 					  <p>- Organize</p>
 					  <p>- Readable</p>
+					  <p> I make this kind of design because it's look fancy and good in the eyes its like getting attention.</p>
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
@@ -320,7 +322,8 @@ App Solution:	Our group came up with an app idea solution for this problem which
                     <div class="wow bounceInLeft">
                       <h4>A8: Grid Layout Design</h4>
 					  <p>Column grids are used to organize elements into columns. this my two designs of grid, images and text can be placed inside one column </p>
-					  	<img src="A8b.png" style="width:450px" class="img-responsive" alt="" />
+					  <p>The Grid can be used to achieve many different layouts. It excels at dividing up space for major regions of an application, or defining the relationship in terms of size, position, and layer between parts of a control built from HTML primitives.</p>	
+						<img src="A8b.png" style="width:450px" class="img-responsive" alt="" />
 						<img src="A8c.png" style="width:450px" class="img-responsive" alt="" />
 				    </div>
                   </div>
@@ -349,8 +352,9 @@ App Solution:	Our group came up with an app idea solution for this problem which
                   </div>
                 </div>
               </div>
-            </div
-			
+            </div>
+		
+		
 			
 
             <!-- Indicators -->
@@ -388,24 +392,24 @@ App Solution:	Our group came up with an app idea solution for this problem which
 
           <ul id="og-grid" class="og-grid">
             <li>
-              <a data-largesrc="ah.png" data-title="First Week Of USERDES Class" data-description="The first week with Ms. Arroyo, Jen and my classmate is fun. We have a lot of confidence to go in front and have a presentation or answer of what is asking. Enjoyable and difficult because I see what we are doing next like creating a design with code so I find it difficult but I try my best to create a best idea. I learn something in this week the design process to help and guide us have a good and better design. This design process will guide us in the next month or in our project by following the steps. But earlier Ms. Arroyo said that we will not having a quiz because we are more on lesson that will help us to have more skills and improve the way we think. ">
+              <a data-largesrc="bus.jpg" data-title="First Week Of USERDES Class" data-description="The first week with Ms. Arroyo, Jen and my classmate is fun. We have a lot of confidence to go in front and have a presentation or answer of what is asking. Enjoyable and difficult because I see what we are doing next like creating a design with code so I find it difficult but I try my best to create a best idea. I learn something in this week the design process to help and guide us have a good and better design. This design process will guide us in the next month or in our project by following the steps. But earlier Ms. Arroyo said that we will not having a quiz because we are more on lesson that will help us to have more skills and improve the way we think. ">
                 <img src="R1.png" alt="" />
               </a>
             </li>
             <li>
-              <a data-largesrc="ahh.png" data-title="Need Finding and Paper Prototyping" data-description="Having a need finding your work will be easy, its detailed, don’t have any missing part of your part because you think what it need to have the best design. Without having need finding your work could be spend months  for designing because you will misses the point of your work.  In the past years the touch of smartphone technology was hard and so slow sometimes it will not respond when you touched it. Having need finding the design or the future smartphone will be improve more and more to be the fast and comfortable to use. One of the example of need finding that shown in the class is shopping cart that will have a smart gadget I think the purpose of this work is to locate all your need and check your total item that you have. This will help customer to have a better shopping cart. They have this because they interviewed many users of what are the problem, issues and needs to improve the shopping or groceries. Having a error or fail in the start is okay that will be your guide and that id highlight of your work.">
+              <a data-largesrc="A5a.png" data-title="Need Finding and Paper Prototyping" data-description="Having a need finding your work will be easy, its detailed, don’t have any missing part of your part because you think what it need to have the best design. Without having need finding your work could be spend months  for designing because you will misses the point of your work.  In the past years the touch of smartphone technology was hard and so slow sometimes it will not respond when you touched it. Having need finding the design or the future smartphone will be improve more and more to be the fast and comfortable to use. One of the example of need finding that shown in the class is shopping cart that will have a smart gadget I think the purpose of this work is to locate all your need and check your total item that you have. This will help customer to have a better shopping cart. They have this because they interviewed many users of what are the problem, issues and needs to improve the shopping or groceries. Having a error or fail in the start is okay that will be your guide and that id highlight of your work.">
                 <img src="r2.png" alt="" />
               </a>
             </li>
             <li>
-              <a data-largesrc="ahhh.png" data-title="First Web Application using Github and Heroku" data-description="Creating a web application is fun and very enjoyable. It like I go back in my grade 9 activity because we do that way back in high school. But some of the basic html I forgot so I research and I ask my classmate to help so that I will have a simple html. 
+              <a data-largesrc="pupu.png" data-title="First Web Application using Github and Heroku" data-description="Creating a web application is fun and very enjoyable. It like I go back in my grade 9 activity because we do that way back in high school. But some of the basic html I forgot so I research and I ask my classmate to help so that I will have a simple html. 
 	using Github and Heroku is kind of hard but fun In creating a web application, it was about us like introducing our self. With a background and color that will have a good web application. In using Github by submitting was not easy because its tricky and some of the System Unit in the comp lab have an account that cant remove. But submitting in Heroku was easy.
 	I enjoy doing this HTML it was fun, I will never be bored doing this.">
                 <img src="r3.png" alt="img01" />
               </a>
             </li>
             <li>
-              <a data-largesrc="ahhhh.png" data-title="User Interface - Worst UI Practice" data-description="It was fun, confuse and annoying in the same time. This was a tricky game that I enjoyed, it will high your thinking and logic that’s why I enjoy but it was annoying because It boost my brain to think on what I’m gonna do next or what will I do to this next. In example in the first step we need to click yes but it doesn’t their it just NO button is their. So we search for it and click every so that we go to the next step. In first  I take it 10 minutes to finish but we given a chance to repeat again so the 2nd attempt I did it just a 2 minutes. 
+              <a data-largesrc="Q2.png" data-title="User Interface - Worst UI Practice" data-description="It was fun, confuse and annoying in the same time. This was a tricky game that I enjoyed, it will high your thinking and logic that’s why I enjoy but it was annoying because It boost my brain to think on what I’m gonna do next or what will I do to this next. In example in the first step we need to click yes but it doesn’t their it just NO button is their. So we search for it and click every so that we go to the next step. In first  I take it 10 minutes to finish but we given a chance to repeat again so the 2nd attempt I did it just a 2 minutes. 
                   I recommend this to be more fun in class and boost their logic and thinking because it will help them/us to improve their thinking and logic.">
                 <img src="r4.png" alt="img01" />
               </a>
@@ -428,7 +432,7 @@ good and awesome. Some events is creating a robot that will be more entertain. -
               </a>
             </li>
 			  <li>
-              <a data-largesrc="r6.png" data-title="First Half of USERDES" data-description="USERDES class is fun subject it very good for us, it giving us knowledge and skills to our working
+              <a data-largesrc="bus.jpg" data-title="First Half of USERDES" data-description="USERDES class is fun subject it very good for us, it giving us knowledge and skills to our working
 application and also having a unique designs. Also Ms. Arroyo was a friendly Professional teacher that I
 like also in the USERDES class. She is approachable when we need help and check to our works.
 The challenges that I encountered is our project because first of all I thought that our project
