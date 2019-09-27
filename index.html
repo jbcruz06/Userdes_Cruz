@@ -508,9 +508,9 @@ finals there is no easy when its finals.">
         </div>
       </div>
       
-    <table style="width: 100%;">
+    <table style="width: 100%;"
 		<tr> 
-			<B><u>CERTIFICATE OF COMPLETION</u></B>
+
 			<th style="text-align: center;">
 				Persuasive UX: Ethics of persuasive design
 			</th>
@@ -532,15 +532,21 @@ finals there is no easy when its finals.">
 
 			</td>
 		</tr>
+		
 		<tr>
 			<th style="text-align: center;">
+			<br>
+			<br>
 				Affinity Designer for UX Design
 			</th>
 			<th style="text-align: center;">
+			<br>
+			<br>
 				Scaling up exellence: Getting to more without settling for less
 			</th>
 
 		</tr>
+	
 		<tr>
 		<td>
 				<span style="text-align: center;">
@@ -552,14 +558,19 @@ finals there is no easy when its finals.">
 					<img src = "C4.png" style="width:600px; height:600px;"></a>
 				</span>
 			</td>
-					<tr>
+			<tr>
 			<th style="text-align: center;">
+			<br>
+			<br>
 				Learning GDPR
 			</th>
 			<th style="text-align: center;">
+			<br>
+			<br>
 				Designing for neural networks and AI Intefaces
 			</th>
 		</tr>
+		
 		    <td>   
 				<span style="text-align: center; display: block; margin: 20px 0 0 0;">
 					<img src = "C5.png" style="width:600px; height:600px;">
