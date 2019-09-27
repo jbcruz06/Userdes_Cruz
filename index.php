@@ -343,7 +343,7 @@ App Solution:	Our group came up with an app idea solution for this problem which
                     <div class="wow bounceInLeft">
                       <h4>A9: 12 Grid Layout Design </h4>
 					  <p>doing the 12 grid layout is a slighty hard because I've made a lot of box with a same size. the easiest grid is the 3 x 3 </p>
-                      <img src="A9.png" style="width:200px class="img-responsive" alt="" />
+                      <img src="upa.png" style="width:200px class="img-responsive" alt="" />
 					</div>
                   </div>
                   <div class="col-sm-12 col-md-5">
